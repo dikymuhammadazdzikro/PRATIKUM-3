@@ -1,5 +1,5 @@
 # PRATIKUM-3
-Diky muhammad azdzikro
+Diky muhammad azdzikro(312510207)
 
 Logika-Flowchart-Latihan-3
 Mulai
